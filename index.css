@@ -1,6 +1,8 @@
 @import "ticketfly-css-spacing-variables";
 
-.o-box > :last-child {
+.o-box > :last-child,
+[class^="o-box--"],
+[class*=" o-box--"] {
   margin-bottom: 0;
 }
 
