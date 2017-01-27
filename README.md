@@ -1,6 +1,7 @@
 # Ticketfly CSS Box Objects
 
 [![Latest NPM release][npm-badge]][npm-badge-url]
+[![CircleCI Build Status][circle-badge]][circle-badge-url]
 [![License][license-badge]][license-badge-url]
 [![Dependencies][dependencies-badge]][dependencies-badge-url]
 [![Dev Dependencies][devDependencies-badge]][devDependencies-badge-url]
@@ -25,6 +26,8 @@ yarn add ticketfly-css-box-objects
 
 [npm-badge]: https://img.shields.io/npm/v/ticketfly-css-box-objects.svg
 [npm-badge-url]: https://www.npmjs.com/package/ticketfly-css-box-objects
+[circle-badge]: https://circleci.com/gh/Ticketfly-UI/ticketfly-css-box-objects/tree/master.svg?style=svg&circle-token={{CIRCLE_TOKEN}}
+[circle-badge-url]: https://circleci.com/gh/Ticketfly-UI/ticketfly-css-box-objects/tree/master
 [license-badge]: https://img.shields.io/npm/l/ticketfly-css-box-objects.svg
 [license-badge-url]: LICENSE
 [dependencies-badge]: https://img.shields.io/david/Ticketfly-UI/ticketfly-css-box-objects.svg
