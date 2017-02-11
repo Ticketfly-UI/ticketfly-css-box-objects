@@ -1,6 +1,6 @@
 {
   "name": "ticketfly-css-box-objects",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Ticketfly CSS helpers for the `box` object pattern",
   "main": "build/ticketfly-css-box-objects.css",
   "style": "build/ticketfly-css-box-objects.css",

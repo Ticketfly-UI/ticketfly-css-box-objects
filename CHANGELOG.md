@@ -1,3 +1,8 @@
+# 0.1.1 &mdash; February 10, 2017
+
+- **[PATCH]** Point package `main` and `style` fields to `build/` dir.'
+
+
 # 0.1.0 &mdash; January 27, 2017
 
 - Bump version past 0.0.x to begin recommending usage.
